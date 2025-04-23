@@ -1,0 +1,1 @@
+[{"title": "The Great Gatsby", "author": "F. Scott Fitzgerald", "year": 1925, "genre": "Fiction", "read": true}, {"title": "The Catcher in the Rye", "author": "J.D. Salinger", "year": 1951, "genre": "Fiction", "read": true}, {"title": "To Kill a Mockingbird", "author": "Harper Lee", "year": 1960, "genre": "Classic", "read": false}]
